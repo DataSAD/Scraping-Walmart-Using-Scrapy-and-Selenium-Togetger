@@ -1,0 +1,86 @@
+50 items for page 1 
+OK. Scraping starting for this page 
+50 items for page 2 
+OK. Scraping starting for this page 
+12 item for page 3 
+less than 50, trying again 
+50 items for page 3 
+OK. Scraping starting for this page 
+24 item for page 4 
+less than 50, trying again 
+24 item for page 4 
+less than 50, trying again 
+50 items for page 4 
+OK. Scraping starting for this page 
+50 items for page 5 
+OK. Scraping starting for this page 
+50 items for page 6 
+OK. Scraping starting for this page 
+50 items for page 7 
+OK. Scraping starting for this page 
+69 items for page 8 
+OK. Scraping starting for this page 
+24 item for page 9 
+less than 50, trying again 
+69 items for page 9 
+OK. Scraping starting for this page 
+24 item for page 10 
+less than 50, trying again 
+24 item for page 10 
+less than 50, trying again 
+24 item for page 10 
+less than 50, trying again 
+69 items for page 10 
+OK. Scraping starting for this page 
+69 items for page 11 
+OK. Scraping starting for this page 
+69 items for page 12 
+OK. Scraping starting for this page 
+69 items for page 13 
+OK. Scraping starting for this page 
+24 item for page 14 
+less than 50, trying again 
+24 item for page 14 
+less than 50, trying again 
+69 items for page 14 
+OK. Scraping starting for this page 
+24 item for page 15 
+less than 50, trying again 
+69 items for page 15 
+OK. Scraping starting for this page 
+69 items for page 16 
+OK. Scraping starting for this page 
+69 items for page 17 
+OK. Scraping starting for this page 
+12 item for page 18 
+less than 50, trying again 
+12 item for page 18 
+less than 50, trying again 
+24 item for page 18 
+less than 50, trying again 
+69 items for page 18 
+OK. Scraping starting for this page 
+59 items for page 19 
+OK. Scraping starting for this page 
+69 items for page 20 
+OK. Scraping starting for this page 
+69 items for page 21 
+OK. Scraping starting for this page 
+59 items for page 22 
+OK. Scraping starting for this page 
+12 item for page 23 
+less than 50, trying again 
+24 item for page 23 
+less than 50, trying again 
+12 item for page 23 
+less than 50, trying again 
+59 items for page 23 
+OK. Scraping starting for this page 
+59 items for page 24 
+OK. Scraping starting for this page 
+24 item for page 25 
+less than 50, trying again 
+24 item for page 25 
+less than 50, trying again 
+59 items for page 25 
+OK. Scraping starting for this page 
